@@ -3,8 +3,8 @@ title: Placeholder Text
 date: 2019-03-09
 hero: /images/hero-4.jpg
 excerpt: Lorem Ipsum Dolor Si Amet
-authors:
-  - Hugo Authors
+##authors:
+##  - Hugo Authors
 
 ---
 
