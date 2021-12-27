@@ -134,12 +134,12 @@
 
 .logo {
   font-style: normal;
-  font-weight: 800;
-  font-size: 52px;
-  font-family: var(--sanserif);
-  line-height: 1.15;
-  color: var(--primary);
-  margin: 0;
+    font-weight: 700;
+    font-size: 24px;
+    font-family: var(--sanserif);
+    line-height: 1.15;
+    color: var(--primary) !important;
+    margin: 0;
 }
 
 .logo-link{
