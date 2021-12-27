@@ -1,6 +1,6 @@
-baseURL: "https://aryodwin.netlify.app"
+baseURL: "https://example.com"
 languageCode: "en-us"
-title: "Aryodwin"
+title: "Hugo Novela"
 pygmentsstyle: 'monokai'
 paginate: 6
 social:
