@@ -2,3 +2,14 @@ baseURL: "https://example.com"
 languageCode: "en-us"
 title: "Aryodwin."
 #pygmentsstyle: 'monokai'
+pygmentsstyle: 'false'
+paginate: 6
+social:
+  twitter: "#"
+  github: "#"
+  instagram: "#"
+  linkedin: "#"
+  dribbble: "#"
+  youtube: "#"
+taxonomies:
+  author: authors
