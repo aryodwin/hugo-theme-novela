@@ -132,6 +132,16 @@
     }
 }
 
+.logo {
+  font-style: normal;
+  font-weight: 800;
+  font-size: 52px;
+  font-family: var(--sanserif);
+  line-height: 1.15;
+  color: var(--primary);
+  margin: 0;
+}
+
 .logo-link{
     position: relative;
     display: -webkit-box;
