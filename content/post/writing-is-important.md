@@ -1,54 +1,26 @@
 ---
-title: Placeholder Text
-date: 2019-03-09
-hero: /images/hero-4.jpg
+title: Why writing is Important
+date: 2021-12-28
+hero: https://images.unsplash.com/photo-1522881451255-f59ad836fdfb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2544&q=80
 excerpt: Lorem Ipsum Dolor Si Amet
 authors: false
 ##  - Hugo Authors
 
 ---
 
-Lorem est tota propiore conpellat pectoribus de
-pectora summo. <!--more-->Redit teque digerit hominumque toris verebor lumina non cervice
-subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc
-caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis
-lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
+I’ve been dreaming about writing consistently since a long time ago. I established my writing habit once, when I wrote my portfolio. Inspired by atomic habit principle, I wrote one sentence at least everyday. It worked, but when my study cases are finished, I stopped writing.
 
-1. Exierant elisi ambit vivere dedere
-2. Duce pollice
-3. Eris modo
-4. Spargitque ferrea quos palude
+Currently I decided to start writing again because of two things: improve my communication, and structure my mind.
 
-Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus
-silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria
-tractus malis.
+When I was pursuing my bachelor degree, my lecturer said that there’re two types of mind based on how they receive ideas: The glass box and the black box.
 
-1. Comas hunc haec pietate fetum procerum dixit
-2. Post torum vates letum Tiresia
-3. Flumen querellas
-4. Arcanaque montibus omnes
-5. Quidem et
+The glass box minded receives ideas based on observation and research. After they observe, read, and got some findings, they will be able to transform their understanding into ideas. Glass box needs time and materials in order to produce ideas.
 
-# Vagus elidunt
+In the other hand, The black box minded is type of mind that receive ideas intuitively. Ideas come along to them all of the sudden such a revelation. When we are in the toilet, while taking a walk, or while daydreaming, some brilliant ideas just show up. This type of mind usually owned by artists and creatives.
 
-<svg class="canon" xmlns="http://www.w3.org/2000/svg" overflow="visible" viewBox="0 0 496 373" height="373" width="496"><g fill="none"><path stroke="#000" stroke-width=".75" d="M.599 372.348L495.263 1.206M.312.633l494.95 370.853M.312 372.633L247.643.92M248.502.92l246.76 370.566M330.828 123.869V1.134M330.396 1.134L165.104 124.515"></path><path stroke="#ED1C24" stroke-width=".75" d="M275.73 41.616h166.224v249.05H275.73zM54.478 41.616h166.225v249.052H54.478z"></path><path stroke="#000" stroke-width=".75" d="M.479.375h495v372h-495zM247.979.875v372"></path><ellipse cx="498.729" cy="177.625" rx=".75" ry="1.25"></ellipse><ellipse cx="247.229" cy="377.375" rx=".75" ry="1.25"></ellipse></g></svg>
+The problem is not like the glass box, the black box ideas is more abstract and unstructured. This make the black box minded difficult to articulate their ideas especially for the unexperienced one. Background and the process of the ideas is hard to describe sometimes. Unfortunately, this is not merely the problem for most entry level creatives and artist, but the most of people. The majority of us have marvelous ideas in our mind, yet it’s hard for us to transform them into sentences. The fruit of this obstacle is we have something in our mind but we don’t know what to say. It causes our great ideas not great anymore as it become useless.
 
-[The Van de Graaf Canon](https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon)
-
-## Mane refeci capiebant unda mulcebat
-
-Victa caducifer, malo vulnere contra
-dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere
-furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. **Faces illo pepulere** tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.
-
-Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli
-Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare
-Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert
-ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae
-vulnus haerentia iuste et exercebat, sui et.
-
-Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel **mitis temploque** vocatus, inque alis, *oculos nomen* non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem
-Propoetides **parte**.
+Therefore, this is when the benefit of writing comes. Writing can help us structured our mind. It train our brains to think in a structure way. Writing creates a framework that can help us to articulate our ideas. And when your ideas is structured, it will be easy for you to communicate it through a sentence.
 
 {{< css.inline >}}
 <style>
