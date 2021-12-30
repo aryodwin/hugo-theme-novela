@@ -1,15 +1,19 @@
 ---
-title: Aryodwin.
+title: Hugo Authors
 bio: |
-  Product Designer in an Indonesian unicorn company.
-  I love to study self-development and spread it to help people grow.
+  Written by You. This is where your author bio lives. Share your work, your
+  joys and of course, your Twitter handle.
 avatar: /images/profile-01.jpeg
 featured: true
 social:
-  - title: instagram
-    url: https://www.instagram.com/aryodwin/
-  - title: twitter
-    url: https://www.twitter.com/aryodwin/
-  - title: linkedin
-    url: https://www.linkedin.com/in/aryodwin/
+  - title: github
+    url: https://github.com
+  - title: github
+    url: https://github.com
+  - title: github
+    url: https://github.com
+  - title: github
+    url: https://github.com
+  - title: github
+    url: https://github.com
 ---
