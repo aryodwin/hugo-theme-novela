@@ -1,8 +1,8 @@
 ---
 title: Aryodwin
 bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
+  Product Designer in an Indonesian unicorn company.
+  Love to study self-development and spread it to help people grow.
 avatar: /images/profile-01.jpeg
 featured: true
 social:
