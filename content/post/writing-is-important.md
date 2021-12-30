@@ -4,7 +4,7 @@ date: 2021-12-28
 hero: https://images.unsplash.com/photo-1522881451255-f59ad836fdfb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2544&q=80
 excerpt: Writing helps us structure our minds. When you jot down your notions, your mind will be trained to think structurally. When you get used to it, your mind will create a framework of thinking that helps you to articulate your ideas.
 authors:
-  - Aryodwin.
+  - Hugo Authors
 
 ---
 
