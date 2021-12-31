@@ -6,10 +6,10 @@ bio: |
 avatar: /images/profile-01.jpeg
 featured: true
 social:
-  - title: Instagram
+  - title: instagram
     url: https://www.instagram.com/aryodwin/
-  - title: Twitter
+  - title: twitter
     url: https://twitter.com/aryodwin
-  - title: Linkedin
+  - title: linkedin
     url: https://www.linkedin.com/in/aryodwin/
 ---
