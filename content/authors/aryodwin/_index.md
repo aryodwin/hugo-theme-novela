@@ -1,8 +1,8 @@
 ---
 title: Aryodwin
 bio: |
-  Product Designer in an Indonesian unicorn company.
-  Love to study self-development and spread it to help people grow.
+  Hello! I'm a Product Designer at Indonesian unicorn company.
+  I love to talk about self-development and help people grow.
 avatar: /images/profile-01.jpeg
 featured: true
 social:
