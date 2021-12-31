@@ -4,10 +4,10 @@ title: "Hugo Novela"
 pygmentsstyle: 'monokai'
 paginate: 6
 social:
-  twitter: "https://twitter.com/aryodwin"
+  twitter: "aryodwin"
   ##github: "#"
-  instagram: "https://www.instagram.com/aryodwin/"
-  linkedin: "https://www.linkedin.com/in/aryodwin/"
+  instagram: "aryodwin"
+  linkedin: "aryodwin"
   ##dribbble: "#"
   ##youtube: "#"
 taxonomies:
