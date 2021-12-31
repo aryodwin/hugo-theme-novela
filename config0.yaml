@@ -5,10 +5,10 @@ pygmentsstyle: 'monokai'
 paginate: 6
 social:
   twitter: "aryodwin"
-  ##github: "#"
+  github: "#"
   instagram: "aryodwin"
   linkedin: "aryodwin"
-  ##dribbble: "#"
-  ##youtube: "#"
+  dribbble: "#"
+  youtube: "#"
 taxonomies:
   author: authors
