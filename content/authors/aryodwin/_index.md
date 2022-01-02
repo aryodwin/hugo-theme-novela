@@ -1,7 +1,7 @@
 ---
 title: Aryodwin
 bio: |
-  Hello! I'm a Product Designer. I love to talk about self-development.
+  Hello! I'm a Product Designer. I love to talk about <br> self-development.
   Here I jot down my opinions and what I've learned.
 avatar: /images/profile-01.jpeg
 featured: true
